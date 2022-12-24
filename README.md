@@ -3,9 +3,9 @@
 
 <img align="center" src="https://github.com/kivi98/kivi98/blob/main/myBanner.png" alt="my_banner" />
 
-//<p align="left"> <img src="https://komarev.com/ghpvc/?username=kivi98&label=Profile%20views&color=0e75b6&style=flat" alt="kivi98" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kivi98&label=Profile%20views&color=0e75b6&style=flat" alt="kivi98" /> </p>
 
-//<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kivi98" alt="kivi98" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kivi98" alt="kivi98" /></a> </p> -->
 
 - 🌱 I’m currently learning **C++, PHP, Flutter, Firebase, Frameworks**
 
