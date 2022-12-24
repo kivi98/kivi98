@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kivi Amarakoon</h1>
 <h3 align="center">Undergraduate at University of Colombo School of Computing</h3>
 
-<img align="center" src="https://github.com/kivi98/kivi98/blob/main/myBanner.png" alt="my_banner"
+<img align="center" src="https://github.com/kivi98/kivi98/blob/main/myBanner.png" alt="my_banner" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kivi98&label=Profile%20views&color=0e75b6&style=flat" alt="kivi98" /> </p>
 
