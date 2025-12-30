@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/kivi98/kivi98/blob/main/myBanner3.png" alt="Kivi Amarakoon Banner" width="100%"/>
+  <img src="https://github.com/kivi98/kivi98/blob/main/MyGitHubBanner.webp" alt="Kivi Amarakoon Banner" width="100%"/>
 </div>
 
 <h1 align="center">Hi there, I'm Kivi Amarakoon 👋</h1>
