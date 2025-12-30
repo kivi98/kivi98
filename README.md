@@ -123,16 +123,28 @@ I'm a passionate Software Engineer currently pursuing my Master's degree in Comp
 
 ### 📊 GitHub Stats
 
+<!-- Using GitHub Stats by anuraghazra -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kivi98&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=kivi98&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kivi98&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=kivi98&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+<!-- Using GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kivi98&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kivi98&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- GitHub Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kivi98&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<!-- GitHub Profile Trophy -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kivi98&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
