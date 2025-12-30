@@ -133,9 +133,9 @@ I'm a passionate Software Engineer currently pursuing my Master's degree in Comp
 </p>
 
 <!-- Using GitHub Streak Stats -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kivi98&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+</p> -->
 
 <!-- GitHub Activity Graph -->
 <p align="center">
@@ -143,9 +143,9 @@ I'm a passionate Software Engineer currently pursuing my Master's degree in Comp
 </p>
 
 <!-- GitHub Profile Trophy -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kivi98&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+</p> -->
 
 ---
 
