@@ -161,6 +161,7 @@ I'm a passionate Software Engineer currently pursuing my Master's degree in Comp
 </tr>
 
 </table>
+
 ---
 
 ### 📊 GitHub Stats
